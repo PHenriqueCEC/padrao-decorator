@@ -9,7 +9,7 @@ public class Calabresa extends HotdogDecorator {
     }
 
     public String getMenu() {
-        return hotdog.getMenu() + ", Bacon!";
+        return hotdog.getMenu() + ", Calabresa!";
     }
 
     public float getPreco() {
